@@ -1,16 +1,16 @@
 @font-face {
   font-family: 'Montserrat Bold';
-  src: url('./fonts/Montserrat-Bold.ttf') format('truetype');
+  src: url('../fonts/Montserrat-Bold.ttf') format('truetype');
   font-display: swap;
 }
 @font-face {
   font-family: 'Montserrat Bold Italic';
-  src: url('./fonts/Montserrat-BoldItalic.ttf') format('truetype');
+  src: url('../fonts/Montserrat-BoldItalic.ttf') format('truetype');
   font-display: swap;
 }
 @font-face {
   font-family: 'Montserrat Regular';
-  src: url('./fonts/Montserrat-Regular.ttf') format('truetype');
+  src: url('../fonts/Montserrat-Regular.ttf') format('truetype');
   font-display: swap;
 }
 
@@ -139,7 +139,7 @@
 }
 
 #es-neo.es-neo .es-benefits {
-  background-image: url('./img/red-bg.png');
+  background-image: url('../images/red-bg.png');
   background-repeat: no-repeat;
   height: 1900px;
   background-position: top center;
@@ -238,7 +238,7 @@
 }
 
 #es-neo.es-neo .es-benefits__picture::after {
-  content: url('./img/arrow-5.png');
+  content: url('../images/arrow-5.png');
   position: absolute;
   bottom: 55%;
   right: 5%;
@@ -247,7 +247,7 @@
 #es-neo.es-neo .es-benefits__list {
   margin: 0;
   padding: 0;
-  list-style: url('./img/thick.png') outside;
+  list-style: url('../images/thick.png') outside;
   padding-left: 40px;
   max-width: 315px;
 }
@@ -260,7 +260,7 @@
 }
 
 #es-neo.es-neo .es-benefits__symbol::after {
-  content: url('./img/arrow-6.png');
+  content: url('../images/arrow-6.png');
   position: absolute;
   bottom: 25%;
   left: -65%;
@@ -311,7 +311,7 @@
 }
 
 #es-neo.es-neo .es-cross {
-  background-image: url('./img/red-bg-mobile.png');
+  background-image: url('../images/red-bg-mobile.png');
   background-repeat: no-repeat;
   background-position: top center;
 }
@@ -432,13 +432,13 @@
     width: 30%;
   }
   #es-neo.es-neo .es-kv__title {
-    font-size: 32px;
+    font-size: 40px;
     margin-top: -110px;
     margin-bottom: 0;
     margin-left: 25%;
   }
   #es-neo.es-neo .es-kv__subtitle {
-    font-size: 32px;
+    font-size: 38px;
     margin-left: 25%;
     margin-bottom: 48px;
   }
@@ -469,7 +469,7 @@
     margin-left: 48px;
   }
   #es-neo.es-neo .es-benefits__title::after {
-    content: url('./img/arrow-1.png');
+    content: url('../images/arrow-1.png');
     position: absolute;
     bottom: -33%;
     left: 38%;
@@ -493,7 +493,7 @@
     align-items: center;
   }
   #es-neo.es-neo .es-benefits__picture::after {
-    content: url(./img/arrow-2.png);
+    content: url(../images/arrow-2.png);
     position: absolute;
     bottom: 62%;
     right: 62%;
@@ -529,7 +529,7 @@
     margin-left: 48px;
   }
   #es-neo.es-neo .es-benefits__symbol::after {
-    content: url('./img/arrow-3.png');
+    content: url('../images/arrow-3.png');
     bottom: 10%;
   }
   #es-neo.es-neo .es-benefits__subtitle--2 {
@@ -564,7 +564,7 @@
     position: relative;
   }
   #es-neo.es-neo .es-info__content::after {
-    content: url('./img/arrow-4.png');
+    content: url('../images/arrow-4.png');
     position: absolute;
     bottom: -30%;
     left: 55%;
@@ -590,19 +590,19 @@
     margin-top: 96px;
   }
   #es-neo.es-neo .es-cross__item--1::after {
-    content: url('./img/arrow-7.png');
+    content: url('../images/arrow-7.png');
     position: absolute;
     top: -125px;
     left: 165px;
   }
   #es-neo.es-neo .es-cross__item--2::after {
-    content: url('./img/arrow-8.png');
+    content: url('../images/arrow-8.png');
     position: absolute;
     top: -90px;
     left: -15px;
   }
   #es-neo.es-neo .es-cross__item--3::after {
-    content: url('./img/arrow-9.png');
+    content: url('../images/arrow-9.png');
     position: absolute;
     top: -145px;
     left: -15px;
